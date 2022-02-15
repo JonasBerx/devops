@@ -1,2 +1,2 @@
-/myenv
-/.pytest_cache
+myenv/
+/__pytest_cache__/
